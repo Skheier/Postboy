@@ -1,5 +1,4 @@
-# Postboy
-Uma aplicação simples de Flutter que é capaz de fazer pedidos POST http. Projetada para ser utilizada em conjunto com a aplicação *CrudAlunosSpringReactMongoDB*
+Aplicação em Flutter que é capaz de fazer pedidos POST http. Projetada para ser utilizada em conjunto com a aplicação *CrudAlunosSpringReactMongoDB*
 
 # Requisitos:
 - Flutter SDK
@@ -9,7 +8,7 @@ Uma aplicação simples de Flutter que é capaz de fazer pedidos POST http. Proj
 E seus respectivos requisitos:
 - Java 17.
 - MongoDb.
-- Mavan
+- Maven.
 
 # Setup:
 
@@ -20,7 +19,7 @@ Mais informações em "https://pub.dev/packages/http/install".
 
 - E substitua o arquivo "main.dart" na pasta "/lib" do projeto pelo main.dart do repositório & salve o projeto.
 
-- "flutter run" e o programa deve funcionar.
+- Execute o comando *flutter run* na pasta "/lib" e a aplicção será iniciada.
 
 # Uso:
 Preencha o campo da URL com o destino desejado ("http://localhost:8081/new" neste caso. Ou outro port caso tenha alterado no aplication.properties da API, ou utilizado outra API compatível para o test).
@@ -29,5 +28,5 @@ Preencha o campo da URL com o destino desejado ("http://localhost:8081/new" nest
 
 
 # Altores:
-- Mathias Moura 04722-102
-- Vitor Lima    04719-302
+- Mathias Moura / 04722-102
+- Vitor Lima    / 04719-302
