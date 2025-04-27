@@ -5,10 +5,11 @@ Uma aplicação simples de Flutter que é capaz de fazer pedidos POST http. Proj
 - Flutter SDK
 - IDE configurada para flutter.
 
-E a api que usei para teste é o mesmo backend que compõe este projeto crudAlunosMongoDB: "link.git"
-e seus respectivos requisitos:
+(A api que usei para teste é o mesmo backend que compõe o projeto crudAlunosMongoDB em: https://github.com/Skheier/CrudAlunosSpringReactMongoDB.git)
+E seus respectivos requisitos:
 - Java 17.
-- mongoDb.
+- MongoDb.
+- Mavan
 
 # Setup:
 
