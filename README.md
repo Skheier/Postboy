@@ -10,7 +10,7 @@ e seus respectivos requisitos:
 - Java 17.
 - mongoDb.
 
-# Setput:
+# Setup:
 
 - inicie uma nova aplicação base do flutter com o comando "flutter create *nome_do_projeto*".
 
